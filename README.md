@@ -4,6 +4,7 @@ This project analyze 'Prism insurance Pvt Ltd data to evaluate policy performanc
 
 # REPORT LINK:
 
+![alt text](https://github.com/ankit-infinity/PRISM_INSURANCE_REPORT/blob/main/IMAGE/REPORT.png)
 
 # OVERVIEW:
 
