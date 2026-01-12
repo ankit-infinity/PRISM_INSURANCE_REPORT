@@ -1,0 +1,2 @@
+# PRISM_INSURANCE_REPORT
+this project analyze 'Prism insurance Pvt Ltd data to evaluate policy performance ,claim trends ,customer demographics and risk factor, enabling data driven decision decision through interactive dashboard and insights  .also we perform sentiment analysis regarding customer feedback
