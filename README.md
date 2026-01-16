@@ -4,6 +4,7 @@ This project analyze 'Prism insurance Pvt Ltd data to evaluate policy performanc
 
 # REPORT LINK:
 
+https://app.powerbi.com/reportEmbed?reportId=c278e887-d16e-4b4b-a117-b09d17f24530&autoAuth=true&ctid=aa83b4a7-28d2-45a8-b2ce-208211922a81
 
 # OVERVIEW:
 
