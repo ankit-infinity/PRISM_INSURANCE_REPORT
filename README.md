@@ -10,10 +10,19 @@ https://app.powerbi.com/reportEmbed?reportId=c278e887-d16e-4b4b-a117-b09d17f2453
 
 ![alt text](https://github.com/ankit-infinity/PRISM_INSURANCE_REPORT/blob/main/IMAGE/REPORT.png)
 
-# oBJECTIVE
+# OBJECTIVE
 
 Analyze prism insurance pvt.ltd data to monitor buisness health across policies, claims,customers and product lines -spotting performance gaps,risk trends and oppurtunities for operational
 or product improvement.
+
+
+# METHODOLOGY
+
+1.Importing data from postgresql database into power bi
+2.performing data profilling
+3.adding slicers and visualized charts 
+4.performing sentimental analysis using python 
+
 
 # INSIGHTS
 
